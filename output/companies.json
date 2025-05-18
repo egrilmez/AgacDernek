@@ -1,0 +1,828 @@
+[
+  {
+    "name": "ABM Makine San. ve Tic. A.Ş.",
+    "address": "İTOB OSB Mah. E. Demirtaş Cad. No:56, 35471",
+    "phone": "02327822390",
+    "fax": "02327821468",
+    "email": "info@abmgroup.com.tr"
+  },
+  {
+    "name": "Adaçam Makina ve Şerit Testere Fabrikası",
+    "address": "Hanlı Merkez San. Sitesi 49. Sok. No:33-35 Arifiye",
+    "phone": "02647771580",
+    "fax": "",
+    "email": "info@adacammakina.com"
+  },
+  {
+    "name": "AES Elektronik Makina San. ve Tic. A.Ş.",
+    "address": "NOSAB Şeftali Cad. 118 Sk. No:4",
+    "phone": "02244433390",
+    "fax": "02244432965",
+    "email": "info@aesgroup.com.tr"
+  },
+  {
+    "name": "AHC Makine Oto. İnş. Taahhüt San. ve Tic. Ltd. Şti.",
+    "address": "",
+    "phone": "02242420069",
+    "fax": "",
+    "email": "info@ahcmakine.com"
+  },
+  {
+    "name": "Airpak Havalandırma ve Filtre Sis. San. Tic. Ltd. Şti.",
+    "address": "Birlik Sanayi Sitesi 4.Yol No: 20",
+    "phone": "02128751228",
+    "fax": "02128751209",
+    "email": "info@airpak.com.tr"
+  },
+  {
+    "name": "Akemsan Ağaç Mak. İml. San. Tic. ve Paz. Ltd. Şti.",
+    "address": "D100 Karayolu Üzeri Ayvalık Mevkii",
+    "phone": "02642912250",
+    "fax": "02642751144",
+    "email": "pazarlama@akemsan.com.tr"
+  },
+  {
+    "name": "Akkuşlar Makina ve Dış Tic. San.Tic.Ltd.Şti.",
+    "address": "Çobançeşme, Nish İstanbul, Sanayi Cd. No:44 D:B Blok Ofis 181",
+    "phone": "02126672590",
+    "fax": "02124769244",
+    "email": "muhasebe.akkuslar@gmail.com"
+  },
+  {
+    "name": "Aks Kesici Takımları İth. İhr. San. Tic. San. Tic. Ltd. Şti",
+    "address": "Mimar Sinan Mah. Üsküdar Cad. Yedpa Ticaret Merkezi E Cadde no :29",
+    "phone": "02164711888",
+    "fax": "",
+    "email": "info@akstakim.com"
+  },
+  {
+    "name": "Aksakal Mobilya Makine San. Tic. Ltd. Şti.",
+    "address": "",
+    "phone": "03622669500",
+    "fax": "03622664455",
+    "email": "muhasebe@aksakalgrup.com"
+  },
+  {
+    "name": "Altelsan Enerji Tesisleri Ltd. Şti.",
+    "address": "7004/7 Sok. No:4/6 Pınarbaşı",
+    "phone": "02324364010",
+    "fax": "02324364020",
+    "email": "info@krccnc.com"
+  },
+  {
+    "name": "Alternatif Mak. San. ve Dan. Hizm. Ltd. Şti.",
+    "address": "Perpa Ticaret Merkezi B Blok Kat: 2 No: 89",
+    "phone": "02122227838",
+    "fax": "02122227832",
+    "email": "info@altermak.com"
+  },
+  {
+    "name": "Ankes Kesici Takım San. ve Tic. Ltd. Şti.",
+    "address": "Ereğli Cad. No: 109",
+    "phone": "03123517336",
+    "fax": "03123517346",
+    "email": "info@ankes.net"
+  },
+  {
+    "name": "Arel Arçağ Elk.Mak.San. ve Tic.Ltd.Şti.",
+    "address": "1202/1 Cad. (Eski 31.Sok) No:109-111 Ostim",
+    "phone": "03123850202",
+    "fax": "",
+    "email": "arel@arel.com.tr"
+  },
+  {
+    "name": "Art Makina Kesici Takımlar San. Tic. Ltd. Şti",
+    "address": "Aydınlı Mah. Melodi Sk. No: 2/9",
+    "phone": "(0 216) 593 24 75",
+    "fax": "(0 216) 593 24 76",
+    "email": "info@artmakina.com"
+  },
+  {
+    "name": "As Makina San. ve Teknik Hizmetler Tic. Ltd. Şti.",
+    "address": "Y. Dudullu OSB 1. Cad. No: 30/A",
+    "phone": "02164154556",
+    "fax": "02164990817",
+    "email": "info@asmetal.com.tr"
+  },
+  {
+    "name": "As Metal Ağaç Mak. San. ve Tic. Ltd. Şti.",
+    "address": "Y. Dudullu OSB 1. Cad. No: 30/A",
+    "phone": "02164154556",
+    "fax": "02164990817",
+    "email": "info@asmetal.com.tr"
+  },
+  {
+    "name": "As Wood Makina Elek. İnş. Mad. Tur. San. ve Tic. Ltd.Şti",
+    "address": "Meclis Mah. Atatürk Cad. No:53",
+    "phone": "02164200458",
+    "fax": "",
+    "email": "aswood@aswood.com.tr"
+  },
+  {
+    "name": "Ayza Mızrak Makine San. ve Tic. Ltd. Şti.",
+    "address": "Çalı San. Bölg. Fevzi Çakmak Cad. No:15",
+    "phone": "02244822710",
+    "fax": "02244822650",
+    "email": "info@ayzamizrak.com.tr"
+  },
+  {
+    "name": "Bala Mak. San. Tic. Ltd. Şti.",
+    "address": "Süleymaniye Mah. 6 Eylül Cad. No:44",
+    "phone": "02247154657",
+    "fax": "02247154667",
+    "email": "bala@balamakina.com.tr"
+  },
+  {
+    "name": "Baromak Makine Ltd. Şti.",
+    "address": "Çalı Mah. 37.(410) SK. Fabrika Binası No:23 B İç Kapı No:1 Nilüfer/BURSA",
+    "phone": "0224 411 19 89",
+    "fax": "",
+    "email": "export@baromak.com.tr"
+  },
+  {
+    "name": "Bay-Tes Testere Bayram Ayral",
+    "address": "",
+    "phone": "05323627648",
+    "fax": "",
+    "email": "info@baytestestere.net"
+  },
+  {
+    "name": "Baylar Atölye Mobilya ve Aydınlatma Tic. Ltd. Şti.",
+    "address": "Küçükbakkalköy Mh. Dereboyu Cd. No: 3A Brandium AVM R5 Blok Kat: 6 Daire:39",
+    "phone": "02163131692",
+    "fax": "02165260798",
+    "email": "info@baylaratolye.com"
+  },
+  {
+    "name": "Berat Makina İbrahim Yolcu",
+    "address": "",
+    "phone": "05058930097",
+    "fax": "",
+    "email": "beratmakinam@gmail.com"
+  },
+  {
+    "name": "Biesse Turkey Makine Tic. ve San. A.Ş.",
+    "address": "Büyükbakkalköy Mah. Samandıra Yolu Sok. No:24",
+    "phone": "02165285800",
+    "fax": "02165285858",
+    "email": "sales.turkiye@biesse.com"
+  },
+  {
+    "name": "Bilkes Kesici Takım İmalatı San. ve Tic. Ltd. Şti.",
+    "address": "Önder Mah. Çamlıtepe Cad. No:294",
+    "phone": "03123511029",
+    "fax": "03123511025",
+    "email": "info@bilkes.com.tr"
+  },
+  {
+    "name": "Bilteks Makina Kesici Takım İnş. Turz. Isıt. Soğ. San. ve Tic. Ltd. Şti.",
+    "address": "İTOB OSB. San. 10023. Sok. No:11 Tekeli",
+    "phone": "02327990223",
+    "fax": "",
+    "email": "bilteks@bilteksmakina.com.tr"
+  },
+  {
+    "name": "Bozdemir Çelik Reklam İnşaat Otomotiv Sanayi ve Ticaret Limited Şirketi",
+    "address": "Seyrantepe Mh. Cidar Sk. No:5-A",
+    "phone": "2126252474",
+    "fax": "2126252475",
+    "email": "info@istanbulcelik.com"
+  },
+  {
+    "name": "BSA Mak. İnş. ve Bilgisayar Tic. Ltd. Şti.",
+    "address": "Ferhatpaşa Mah. G-29 Sok. Leda İş Merkezi No: 19 - 21",
+    "phone": "02163058219",
+    "fax": "02163524587",
+    "email": "info@bsayazilim.com.tr"
+  },
+  {
+    "name": "Bup Kesici Takımlar San. Ltd. Şti.",
+    "address": "Mimar Sinan Mah. YEDPA Bulvarı YEDPA İş Mrk. C Cad. No: 60",
+    "phone": "02166615214",
+    "fax": "02166615215",
+    "email": "info@bup.com.tr"
+  },
+  {
+    "name": "Çam Ticaret Kesici Takımlar İml. ve Paz. Ltd. Şti.",
+    "address": "Organize Sanayi Bölgesi Keresteciler Sitesi 17.Blok No:29-31",
+    "phone": "02126700078",
+    "fax": "",
+    "email": "info@camticaret.com"
+  },
+  {
+    "name": "Canmaksan Müh. Mak. Elekt. Elektron. Paz. San. Tic. Ltd. Şti.",
+    "address": "Organize Sanayi Bölgesi 1.Cadde Desen Sok. No:6",
+    "phone": "02247149720",
+    "fax": "02247149723",
+    "email": "info@canmaksan.com.tr"
+  },
+  {
+    "name": "CE Ahşap Makineleri Tic. Ltd. Şti",
+    "address": "Esentepe Mah. Milangaz Cd. No:77/1 D:124",
+    "phone": "2163090038",
+    "fax": "",
+    "email": "info@ceahsapmakineleri.com"
+  },
+  {
+    "name": "Çetinmak Mak. Yedek Parça San. ve Tic. Ltd. Şti.",
+    "address": "Süleyman Demirel Cad. No: 50",
+    "phone": "02327825200",
+    "fax": "02327824292",
+    "email": "info@cetinmak.com.tr"
+  },
+  {
+    "name": "Dinçmak Mak. San. ve Tic. Ltd. Şti.",
+    "address": "Çalı San. Bölgesi, Sarıyerler Cad. No:30, 16130",
+    "phone": "02244431993",
+    "fax": "02244431994",
+    "email": "info@dincmak.com"
+  },
+  {
+    "name": "DÜRR Systems Makine Müh. Proj. İth. İhr. Ltd. Şti.",
+    "address": "",
+    "phone": "02163659705",
+    "fax": "",
+    "email": "sales-turkey@homag.com"
+  },
+  {
+    "name": "Edda Makine Amb. Nak. İnş. Kimya San. Tic. Ltd. Şti.",
+    "address": "",
+    "phone": "+90 224 441 23 41",
+    "fax": "+90 224 441 03 65",
+    "email": "info@eddamakine.com"
+  },
+  {
+    "name": "Efo Makina İnşaat Gıda Sanayi ve Ticaret Limited Şirketi",
+    "address": "",
+    "phone": "0850 850 60 12",
+    "fax": "",
+    "email": "info@efomakina.com.tr"
+  },
+  {
+    "name": "Elfamak Makine Teknolojileri ve Elektronik San. ve Tic. Ltd. Şti.",
+    "address": "Fevzi Çakmak Mah. Ankara Cad. 10753 Sok. No:5-A",
+    "phone": "03323583939",
+    "fax": "",
+    "email": "info@elfamak.com.tr"
+  },
+  {
+    "name": "Emin Tosun Makine San. ve Tic. Ltd. Şti.",
+    "address": "Kayapa Mh. Kayapa Yolu Cd. No:17",
+    "phone": "02244436265",
+    "fax": "02244436269",
+    "email": "info@emintosun.com"
+  },
+  {
+    "name": "Ergilsan Kesici Takım ve Kalıp İmalat San. Tic. Ltd. Şti.",
+    "address": "Hasanoğlan Sanayi Bölgesi Bahçelievler Mah. 577. Cad. No :4 Hasanoğlan",
+    "phone": "03128640628",
+    "fax": "03128640631",
+    "email": "ergilsan@ergilsan.com"
+  },
+  {
+    "name": "EVEREST İNŞAAT MALZEMELERİ ÜRETİM VE PAZARLAMA A.Ş",
+    "address": "",
+    "phone": "02163111670",
+    "fax": "02163111674",
+    "email": "info@everestas.com"
+  },
+  {
+    "name": "F.N.T. Ahşap İşleme Mak. San. ve Tic. A.Ş.",
+    "address": "Organize Sanayi Bölgesi Hüsnü Örnek Cad.",
+    "phone": "02582692129",
+    "fax": "02582692132",
+    "email": "muhasebe@fntahsap.com.tr"
+  },
+  {
+    "name": "Feniş Ahşap Pvc.Al.İşl.Mak.Tas.İml.San.Tic. A.Ş.",
+    "address": "Aydın-İzmir Karayolu Üzeri Kardeşköy Mah. Yeni Sok. No:128",
+    "phone": "02562440247",
+    "fax": "02562440589",
+    "email": "info@fenismakina.com"
+  },
+  {
+    "name": "Fimaksan Ağaç İşleme Makineleri İmalat San. ve Tic. Ltd. Şti",
+    "address": "Pirahmetler Mah. D. 100 YAn Yol Caddesi 54200 No:76/2 Ertürk Otomotiv Sitesi Erenler/Sakarya",
+    "phone": "02642749458",
+    "fax": "02642726040",
+    "email": "bilgi@fimaksan.com"
+  },
+  {
+    "name": "FSD Yazılım Bilişim Danışmanlık Hizmetleri İç ve Dış Tic. Ltd. Şti.",
+    "address": "",
+    "phone": "02165729594",
+    "fax": "",
+    "email": "muhasebe@fsdyazilim.com"
+  },
+  {
+    "name": "Gözet Makine A.Ş.",
+    "address": "Atatürk Mah. 2.Cad. No:150 Kısıkköy",
+    "phone": "02322575177",
+    "fax": "",
+    "email": "info@gozetmakina.com"
+  },
+  {
+    "name": "Gültekin Ağaç İşleme Makinaları San.Tic.Ltd.Şti",
+    "address": "Keresteciler San. Sit. 5. blok No: 14-16",
+    "phone": "(0212) 670 1166",
+    "fax": "",
+    "email": "info@gultekinmakina.com.tr"
+  },
+  {
+    "name": "Gümüş Marangoz Mak. İmal. İth. İhr. San. Ltd. Şti.",
+    "address": "Önder Mah. Akçakale Cad. No:36 İç Kapı No:9",
+    "phone": "03123530135",
+    "fax": "03123490925",
+    "email": "gumusmakina@hotmail.com"
+  },
+  {
+    "name": "HASDEM Makina ve Kesici Takım İmal. San. ve Tic. Ltd. Şti.",
+    "address": "Çamlıtepe Cad. No:76 Siteler",
+    "phone": "03123490929",
+    "fax": "03123490989",
+    "email": "info@hasdem.com.tr"
+  },
+  {
+    "name": "Hasmak El Makinaları San. Tic. Ltd. Şti.",
+    "address": "İbrahim Turan Cad. Cüneytbey Mah. No:174 A-1",
+    "phone": "02322533223",
+    "fax": "02322644859",
+    "email": "info@hasmakems.com"
+  },
+  {
+    "name": "Hedef Makina Marangoz Makinaları İml. San. - Vedat Gümüş",
+    "address": "",
+    "phone": "03123515050",
+    "fax": "",
+    "email": "info@hedefmakinam.com"
+  },
+  {
+    "name": "Hertz Motor Sanayi - Hüseyin Türksever",
+    "address": "Önder Mah. Akçakale Sok. No:19 Siteler",
+    "phone": "03123533303",
+    "fax": "03123487474",
+    "email": "info@hertzmotor.com"
+  },
+  {
+    "name": "Hizmet Him Mak. ve Tekstil San. Tic. Ltd. Şti.",
+    "address": "Sinanbey Mah. 9. Metal Sok. No: 3",
+    "phone": "02247149062",
+    "fax": "02247149072",
+    "email": "muhasebe@hizmethimmakina.com"
+  },
+  {
+    "name": "Ima Schelling İstanbul Makine Ltd.Şti.",
+    "address": "",
+    "phone": "0 (507) 407 22 96",
+    "fax": "",
+    "email": "info.tr@imaschelling.com"
+  },
+  {
+    "name": "İnegöl Form Makina ve Metal San. Tic. Ltd. Şti.",
+    "address": "",
+    "phone": "02247141012",
+    "fax": "02247140957",
+    "email": "info@formmaksan.com"
+  },
+  {
+    "name": "İnoteknik Makine Otomotiv Sanayi Ticaret Limited Şirketi",
+    "address": "",
+    "phone": "02244110090",
+    "fax": "",
+    "email": "muhasebe@inoteknik.com.tr"
+  },
+  {
+    "name": "Isımek Makina Kazan İnş. San. ve Tic. Ltd. Şti.",
+    "address": "Saray Mah. Aksoy Sok. No:34",
+    "phone": "03128155607",
+    "fax": "03128155610",
+    "email": "info@isimek.com.tr"
+  },
+  {
+    "name": "Kadromak Makine San. ve Dış Tic. A.Ş.",
+    "address": "ESENKENT MAH MUHTEREM SOKAK NO:50",
+    "phone": "02163135565",
+    "fax": "02163135566",
+    "email": "info@kadromak.com"
+  },
+  {
+    "name": "Katay Makine Mühendislik Otomotiv Sanayi ve Tic. Ltd. Şti.",
+    "address": "",
+    "phone": "+905327090489",
+    "fax": "",
+    "email": "dynawrap@katay.com.tr"
+  },
+  {
+    "name": "KLK Grup Mak. İnş. Kuy. Nak. Gıd. Hay. San. Tic. İth. ve İhr. Ltd. Şti.",
+    "address": "Tezcan Sok. No: 33/3",
+    "phone": "03123511112",
+    "fax": "03123511119",
+    "email": "info@klkmakine.com"
+  },
+  {
+    "name": "Kocayusuf Ağaç Makinaları San. ve Tic. Ltd. Şti.",
+    "address": "Yukarı Dudullu 1.Cad. no:30",
+    "phone": "02164668022",
+    "fax": "",
+    "email": "info@kocayusufmakine.com"
+  },
+  {
+    "name": "Lamtek Makine Otomasyon San.Tic. Ltd. Şti.",
+    "address": "",
+    "phone": "02163040424",
+    "fax": "02163040425",
+    "email": "info@lamtekmakine.com.tr"
+  },
+  {
+    "name": "LDM Makina San. ve Tic. A.Ş.",
+    "address": "",
+    "phone": "02244435344",
+    "fax": "",
+    "email": "info@ldmmakina.com"
+  },
+  {
+    "name": "Leitz Kesici Takımlar San. ve Tic. A.Ş.",
+    "address": "Gebze Organize Sanayi Bölgesi No: 1602 41480",
+    "phone": "02626771727",
+    "fax": "02626771730",
+    "email": "leitz@leitz.com.tr"
+  },
+  {
+    "name": "Ligno Mak. San. ve Tic. Ltd. Şti.",
+    "address": "Göztepe Mah. Atatürk Cad. Köprülü Çıkmazı No: 2/2 34815",
+    "phone": "02164657800",
+    "fax": "02164657809",
+    "email": "ligno@ligno.com.tr"
+  },
+  {
+    "name": "Lignum Ağaç Makineleri San. Tic. Ltd. Şti",
+    "address": "",
+    "phone": "02244800098",
+    "fax": "",
+    "email": "foreigntrade@lignum.com.tr"
+  },
+  {
+    "name": "M.S.K. Motor Komp. Mak. San. Tic. Ltd. Şti.",
+    "address": "NOSAB 113. Sok. No:23",
+    "phone": "02244110745",
+    "fax": "",
+    "email": "info@ozgencmakina.com.tr"
+  },
+  {
+    "name": "Maymak Makine İmalat San. Tic. Ltd. Şti.",
+    "address": "Sümer Mah. Yeni Sanayi Cad. No:5",
+    "phone": "03842131647",
+    "fax": "03842139176",
+    "email": "info@maymak.com.tr"
+  },
+  {
+    "name": "Mergen Mekatronik Makina İml. San. Tic. Ltd. Şti",
+    "address": "",
+    "phone": "5421429398",
+    "fax": "",
+    "email": "geylaniovali@gmail.com"
+  },
+  {
+    "name": "Mimçeko Makina İmalatı ve Ticareti",
+    "address": "Karacakaya Cad. Yapıcı Sok. No: 58 - 06160",
+    "phone": "03123485002",
+    "fax": "03123510089",
+    "email": "mimceko@hotmail.com"
+  },
+  {
+    "name": "Mısırlı Tasarım Makina Müh. San. Tic. Ltd. Şti.",
+    "address": "Osmaniye Mah. Mikail Sok. No:4",
+    "phone": "02247148456",
+    "fax": "02247148457",
+    "email": "info@misirligroup.com"
+  },
+  {
+    "name": "Mızrak Ahşap İşleme Makineleri San. ve Tic. A.Ş.",
+    "address": "BTSO Organize San. Bölgesi Sarı Cad. 1. Sok. No: 4",
+    "phone": "02242417111",
+    "fax": "02242414090",
+    "email": "info@mizrakmakine.com"
+  },
+  {
+    "name": "MKT Makina ve Ahşap Teknolojileri San. ve Tic. A.Ş.",
+    "address": "",
+    "phone": "02164667073",
+    "fax": "02164667079",
+    "email": "info@mktmakina.com.tr"
+  },
+  {
+    "name": "Mod Process Makina Sanayi ve Ticaret Anonim Şirketi",
+    "address": "Turgut Reis Mah. Demokrasi Cd. No:233 A/0",
+    "phone": "0216 466 73 42",
+    "fax": "02164667343",
+    "email": "info@modprocess.com"
+  },
+  {
+    "name": "MTC Makina Kesici Takım Çözümleri A.Ş",
+    "address": "Karabağlar Mah. 5759/6 Sk. No:2G",
+    "phone": "(232) 237 0660",
+    "fax": "",
+    "email": "mtc@mtckesici.com"
+  },
+  {
+    "name": "Nesto Makina Mobilya Gıda İnşaat ve İnşaat Malz. San. İth. İhr. Ltd. Şti.",
+    "address": "Akhisar Mah. Eğriyol Sok. No:4",
+    "phone": "02247148884",
+    "fax": "",
+    "email": "info@nestomachine.com"
+  },
+  {
+    "name": "NETMAK End. ve Ahş. Mak. İml. San. ve Tic. A.Ş.",
+    "address": "Koçak Sokak no: 54",
+    "phone": "03123489898",
+    "fax": "03123488101",
+    "email": "makina@netmakgroup.com.tr"
+  },
+  {
+    "name": "Netmak Kesici Takım İmalat Pazarlama Limited Şirketi",
+    "address": "Bilgin Sok. No:27",
+    "phone": "03123489899",
+    "fax": "03123493426",
+    "email": "netmak@netmakgroup.com.tr"
+  },
+  {
+    "name": "NRG Makine San. İth. İhr. Ltd. Şti.",
+    "address": "Mahmudiye Mh. 23. Mobilya Sk. No:7",
+    "phone": "2247157177",
+    "fax": "",
+    "email": "cihan.yuruk@nrgmakine.com"
+  },
+  {
+    "name": "Nümerik Mühendislik Otomasyon Makina San. Tic. Ltd. Şti.",
+    "address": "",
+    "phone": "(224) 443 6360",
+    "fax": "(224) 443 6306",
+    "email": "info@numerikotomasyon.com"
+  },
+  {
+    "name": "Ö.K.G. Özkonyalılar Grup Makina İnşaat Kuy. Nak. Gıda Turizm San. Tic. İth. İhr. Ltd. Şti.",
+    "address": "Tezcan Sok. No: 32/A B",
+    "phone": "03123488067",
+    "fax": "03123487113",
+    "email": "info@ozkonyalilar.com.tr"
+  },
+  {
+    "name": "OMAKSAN Ahşap İşleme Mak. San. ve Tic. Ltd. Şti.",
+    "address": "Yiğitler Mahallesi Otosansit 43. BLOK NO: 32-34-36-38-40",
+    "phone": "02243713922",
+    "fax": "",
+    "email": "info@omaksan.com.tr"
+  },
+  {
+    "name": "Onursal Konveyör Mob. Mak. San. Ve Tic. Ltd. Şti.",
+    "address": "Beylikdüzü OSB Mah. Menekşe Cad. No: 18/A",
+    "phone": "02128755000",
+    "fax": "02128763357",
+    "email": "info@onurmakina.org"
+  },
+  {
+    "name": "Orent Orman Ürünleri Mak.İnş. Taah.Turz.Tarım Nak. Tic.San. Ltd.Şti.",
+    "address": "Azmimilli Mah. Gazhane Cad. No: 110",
+    "phone": "03805246676",
+    "fax": "03805141162",
+    "email": "info@orent.com.tr"
+  },
+  {
+    "name": "Orimak Makina San.Tic.Ltd.Şti.",
+    "address": "Mahmudiye Mah. Ağaç İşleri San. Sit. 11.Sok. No:11",
+    "phone": "02247186268",
+    "fax": "",
+    "email": "info@orimak.com"
+  },
+  {
+    "name": "Ormend Makina San. Tic. Ltd. Şti.",
+    "address": "",
+    "phone": "02165270112",
+    "fax": "02165270114",
+    "email": "muhasebe@ormendmakina.com"
+  },
+  {
+    "name": "Öz Anadolu Grup Makina Mob. Dek. Oto. İnş. Turizm İth. İhr. San. ve Tic. Ltd. Şti.",
+    "address": "Sarayköy Keresteciler Sanayi Sitesi 3. Cadde No : 25",
+    "phone": "03123537170",
+    "fax": "03123501194",
+    "email": "info@ozanadolumakina.com"
+  },
+  {
+    "name": "Özbaşkent Mak. İmal. San. ve Tic. Ltd. Şti.",
+    "address": "Gökçeyurt Mah. Samsun Devlet Yolu No:9",
+    "phone": "03123538295",
+    "fax": "",
+    "email": "info@ozbaskentmakina.com.tr"
+  },
+  {
+    "name": "Özkar Makina Sanayi",
+    "address": "Tezcan Sokak No:33-4 Siteler",
+    "phone": "03123515196",
+    "fax": "03123505196",
+    "email": "ozkar_makina@hotmail.com"
+  },
+  {
+    "name": "PMR Makina San. İth. İhr. Tic. Ltd. Şti.",
+    "address": "",
+    "phone": "02166296666",
+    "fax": "",
+    "email": "info@pmrmakina.com"
+  },
+  {
+    "name": "Poyraz Makina İml. San. Tic. Ltd. Şti.",
+    "address": "İ.O.S.B Süleyman Demirel Bulvarı İş Modern San. Sitesi J Blok No:26",
+    "phone": "(0212) 549 27 52",
+    "fax": "(0212) 549 27 56",
+    "email": "info@poyrazmakina.com"
+  },
+  {
+    "name": "PRF Ağaç İşleme Makineleri San. Tic. A.Ş.",
+    "address": "",
+    "phone": "02126700773",
+    "fax": "",
+    "email": "sales@prfmakine.com"
+  },
+  {
+    "name": "Reksoft Makina San. ve Tic. Ltd. Şti",
+    "address": "Antalya Organize San. Bölgesi 3. Kısım 35.Cadde No:22",
+    "phone": "2425024626",
+    "fax": "",
+    "email": "info@reksis.com.tr"
+  },
+  {
+    "name": "Saf Teknik Toz Emme Sistemleri San. Tic. Ltd. Şti.",
+    "address": "Hasanaga OSB Mh. 5. Cd. No:6",
+    "phone": "02245320516",
+    "fax": "02245320517",
+    "email": "info@safteknik.com"
+  },
+  {
+    "name": "Schnitzer Makine Yazılım İnşaat Üretim Pazarlama İthalat İhracat San. Tic. Ltd. Şti.",
+    "address": "Çataltepe Mah. BESOB 4.Sok. No:17/1",
+    "phone": "02247160055",
+    "fax": "",
+    "email": "info@schnitzer.com.tr"
+  },
+  {
+    "name": "SCM Turkey Makina San. Tic. Ltd. Şti",
+    "address": "Barbaros Mah. Mor Sümbül Sk. Varyap Meridian I Blok No:1/155",
+    "phone": "2165044000",
+    "fax": "",
+    "email": "umut.erkan@scmgroup.com"
+  },
+  {
+    "name": "Serhat Erpulat Makina San. ve Tic. Ltd. Şti.",
+    "address": "7 Eylül Mah. 5549. Sk. 3 Blok D:7",
+    "phone": "02328532872",
+    "fax": "02328532572",
+    "email": "info@serhatmakina.com"
+  },
+  {
+    "name": "Sonar Elektronik ve Mak. San. Tic. Ltd. Şti.",
+    "address": "54 Sok. No: 3",
+    "phone": "02323273033",
+    "fax": "02323273020",
+    "email": "info@sonar.com.tr"
+  },
+  {
+    "name": "SVSFAN Metal Makine San. ve Tic. Ltd. Şti.",
+    "address": "",
+    "phone": "03322353063",
+    "fax": "",
+    "email": "sivasmakina@gmail.com"
+  },
+  {
+    "name": "T.R.SABIR MAKİNE LTD ŞTİ",
+    "address": "",
+    "phone": "03123958052",
+    "fax": "",
+    "email": "moxsabir@gmail.com"
+  },
+  {
+    "name": "TEKNİKER OTO. İNŞ. HAYV. MAK. SAN. TİC. LTD.ŞTİ.",
+    "address": "",
+    "phone": "03123487895",
+    "fax": "",
+    "email": "teknikertozemme@hotmail.com"
+  },
+  {
+    "name": "Teknomak Mob. Mak. Kesici Takımlar San. ve Tic. Ltd. Şti.",
+    "address": "Altınşehir Mah. Şen Sok. No:4 Y.Dudullu",
+    "phone": "02166614033",
+    "fax": "02166614035",
+    "email": "info@teknomakmakina.com.tr"
+  },
+  {
+    "name": "TEKSER Makina Teknik Danışmanlık San. Tic. ve Paz. Ltd. Şti.",
+    "address": "",
+    "phone": "02163405104",
+    "fax": "02165454047",
+    "email": "info@teksermakina.com"
+  },
+  {
+    "name": "Tervelli Endüstriyel Ürünler Dış Tic. Ltd. Şti.",
+    "address": "Çamlık Mah. Mercimek Sok. No: 60 Daire: 3",
+    "phone": "02164204061",
+    "fax": "02164665125",
+    "email": "info@tervelli.com.tr"
+  },
+  {
+    "name": "Testeresan Sanayi Testere ve Bıçakları Ltd. Şti.",
+    "address": "",
+    "phone": "+90 212 671 37 27",
+    "fax": "",
+    "email": "info@testeresan.com"
+  },
+  {
+    "name": "Timsan Teknik İnş. Mak. San. Ltd. Şti.",
+    "address": "Atatürk Bulvarı No:46 Başkent OSB 06909 Malıköy - Temelli Mevkii",
+    "phone": "03123547800",
+    "fax": "03123547852",
+    "email": "info@timsan.com.tr"
+  },
+  {
+    "name": "Törk Makine Sanayi ve Ticaret Anonim Şirketi",
+    "address": "Esentepe Mah. Uğur Cad. No:29 34870",
+    "phone": "02163870540",
+    "fax": "02164882802",
+    "email": "info@torkmakine.com"
+  },
+  {
+    "name": "Turanlar Mak. San. ve Tic. A.Ş.",
+    "address": "Eskişehir Yolu 55.Km Temelli Nahiyesi",
+    "phone": "02165618586",
+    "fax": "03123539191",
+    "email": "info@turanlar.com"
+  },
+  {
+    "name": "Ünalsan Metal ve Makina San. Tic. A.Ş.",
+    "address": "İzmir Yolu 15.km Alaaddinbey Mah. Alaaddinbey Cad. No: 18",
+    "phone": "02244134140",
+    "fax": "02244130386",
+    "email": "info@unalsan.com"
+  },
+  {
+    "name": "Unimak Mühendislik Hizmet ve Makine San.Tic. Ltd.Şti.",
+    "address": "Tuzla Kimya San. OSB Analitik Cad. No:40 34953",
+    "phone": "02165931580",
+    "fax": "02165931426",
+    "email": "info@unimak.tc"
+  },
+  {
+    "name": "Unitech Mühendislik Makina Sanayi A.Ş.",
+    "address": "",
+    "phone": "0 216 484 2912",
+    "fax": "",
+    "email": "info@unitechas.com"
+  },
+  {
+    "name": "Ünver Ağaç İşleme Makinaları San. ve Tic. Ltd. Şti.",
+    "address": "Ereğli Caddesi No:11 Siteler",
+    "phone": "03128151558",
+    "fax": "03128151559",
+    "email": "unvermakine@gmail.com"
+  },
+  {
+    "name": "Ünverler Mobilya Makinaları Orman Ür. İnş. Tur. Day. Tük. Mal. San. Tic. Ltd.Şti",
+    "address": "",
+    "phone": "0312353 2121",
+    "fax": "",
+    "email": "eren@unverlermakina.com.tr"
+  },
+  {
+    "name": "Üstünkarlı Makine A.Ş.",
+    "address": "İstasyon Cad. Gölcükler Mah. No:28 35470",
+    "phone": "02327821390",
+    "fax": "02327821391",
+    "email": "info@ustunkarli.com"
+  },
+  {
+    "name": "UVTEK MÜHENDİSLİK MAKİNE KİMYA SANAYİ TİC. A.Ş.",
+    "address": "Dilovası OSB. 4.Kısım D-4015 Sok. No: 2/1",
+    "phone": "02627249448",
+    "fax": "",
+    "email": "info@uvtekgroup.com"
+  },
+  {
+    "name": "Vermak Makine Plastik San. ve Tic. Ltd. Şti.",
+    "address": "Çerkeşli OSB, 3. İmes Bulvarı No:37",
+    "phone": "02625029262",
+    "fax": "",
+    "email": "danisma@vermak.com.tr"
+  },
+  {
+    "name": "VMM Varol Makina San. Tic. Ltd. Şti.",
+    "address": "",
+    "phone": "02164206565",
+    "fax": "02163142263",
+    "email": "info@varolmakina.com"
+  },
+  {
+    "name": "Wimak Makina İth. İhr. San. ve Tic. Ltd.Şti",
+    "address": "",
+    "phone": "+90 535 296 27 47",
+    "fax": "",
+    "email": "info@wimak.com.tr"
+  }
+]
